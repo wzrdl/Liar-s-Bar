@@ -1,7 +1,3 @@
-Here is a draft for the GitHub README file based on the content of the uploaded paper:
-
----
-
 # Liar's Bar Game: A Game Theory Analysis
 
 This repository contains the implementation and analysis of the **Liar's Bar Game**, a two-player strategic card game developed as a case study for exploring game theory concepts, including Nash Equilibrium, Bayesian belief updates, and backward induction.
@@ -74,24 +70,6 @@ Potential extensions include:
 
 ---
 
-## Citation
-
-If you use this work, please cite the paper:
-
-```
-@article{liarsbar2023,
-  author = {Zirui Wen},
-  title = {Liar's Bar Game Theory for Two Players},
-  journal = {Applied Artificial Intelligence},
-  year = {2023}
-}
-```
-
----
-
-## License
-
-This project is open-sourced under the MIT License.
 
 ---
 
