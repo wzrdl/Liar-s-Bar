@@ -29,8 +29,19 @@ For detailed rules and examples, refer to the paper.
 
 ## Game-Theoretic Analysis
 
+
+
 ### Payoff Matrix
-The game's strategic outcomes are modeled using a payoff matrix that includes truthful plays, bluffs, and bluff calls. 
+
+
+| Player A \ Player B | Truthful Play  | Bluff         | Call Bluff   |
+|---------------------|----------------|---------------|--------------|
+| **Truthful Play**   | (0, 0)         | (1, 1)        | (3, -3)      |
+| **Bluff**           | (1, 1)         | (0, 0)        | (-3, 3)      |
+| **Call Bluff**      | (-3, 3)        | (3, -3)       | N/A (invalid)|
+
+
+
 
 ### Bayesian Belief Updates
 Players utilize Bayesian inference to estimate probabilities and refine their strategies dynamically based on observed actions.
