@@ -68,9 +68,3 @@ Potential extensions include:
 - Exploring more complex utility functions.
 - Adjusting game rules to mimic real-world scenarios.
 
----
-
-
----
-
-Let me know if you'd like any adjustments or additional details in the README!
