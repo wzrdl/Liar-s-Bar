@@ -48,7 +48,6 @@ Players utilize Bayesian inference to estimate probabilities and refine their st
 
 ### Sequential Decision-Making
 Backward induction is employed to determine optimal strategies at each stage of the game, ensuring long-term utility maximization.
-![Uploading QQ截图20241221233225.png…]()
 
 ---
 
